@@ -1,3 +1,4 @@
+<script type="text/javascript">
 	atOptions = {
 		'key' : 'd1df290a319f53d5b4be6cec7ad48dfe',
 		'format' : 'iframe',
